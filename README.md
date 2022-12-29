@@ -2,7 +2,6 @@
 
 ```
 - 🌱 Cursando Superior Em Análise e Desenvolvimento De Sistemas.
-- 🤔 A Procura De Uma Oportunidade De Estágio / Emprego.
 - 🎭 Apaixonado Por Tecnologia, Culturas, Línguas, Natureza.
 - ⚡ Sou Uma Pessoa Responsável, Determinada, Carismática e Criativa.
 - 📚 Tenho Facilidade Em Aprender e Exercer Novas Tarefas.
